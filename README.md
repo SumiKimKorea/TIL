@@ -4,6 +4,7 @@
 No. | Description | Link | Date
 --- | ----------- | ---- | ----
 1 | C Programming | [최호성 열혈강의](https://www.youtube.com/watch?v=RRDZQpuRYpg&list=PLXvgR_grOs1BiznAEkzQdA9tlcA06qx75&index=2&t=0s) | 2019/12/28 ~ 2020/
+2 | MFC Windows Programming | [최호성 MFC](https://www.youtube.com/watch?v=DsVi1AGteUU&list=PLXvgR_grOs1DFQlq2w9ugBZ0_ComDYBXR&index=16&t=2009s) | 2020/1/5 ~ 2020/
 
 
 ## 작성법
